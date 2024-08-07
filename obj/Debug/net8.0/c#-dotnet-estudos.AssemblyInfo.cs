@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("c#-dotnet-estudos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09ec3892263ba631959acbbf80c45bc00a947ce3")]
 [assembly: System.Reflection.AssemblyProductAttribute("c#-dotnet-estudos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c#-dotnet-estudos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

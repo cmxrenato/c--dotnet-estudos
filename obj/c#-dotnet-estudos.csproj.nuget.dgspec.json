@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\c#-dotnet-estudos\\c#-dotnet-estudos.csproj": {}
+    "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\dotNet-estudos\\c#-dotnet-estudos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\c#-dotnet-estudos\\c#-dotnet-estudos.csproj": {
+    "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\dotNet-estudos\\c#-dotnet-estudos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\c#-dotnet-estudos\\c#-dotnet-estudos.csproj",
+        "projectUniqueName": "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\dotNet-estudos\\c#-dotnet-estudos.csproj",
         "projectName": "c#-dotnet-estudos",
-        "projectPath": "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\c#-dotnet-estudos\\c#-dotnet-estudos.csproj",
+        "projectPath": "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\dotNet-estudos\\c#-dotnet-estudos.csproj",
         "packagesPath": "C:\\Users\\renat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\c#-dotnet-estudos\\obj\\",
+        "outputPath": "C:\\Users\\renat\\OneDrive\\Área de Trabalho\\dotNet-estudos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\renat\\AppData\\Roaming\\NuGet\\NuGet.Config"
